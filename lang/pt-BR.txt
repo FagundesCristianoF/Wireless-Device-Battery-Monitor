@@ -214,8 +214,6 @@ BatteryHub could not reopen. Please start it manually or repair the installation
 BatteryHub is up to date. = O BatteryHub está atualizado.
 BatteryHub update = Atualização do BatteryHub
 BatteryHub will close briefly while the update is installed. = O BatteryHub será fechado brevemente enquanto a atualização é instalada.
-
-# Missing phrases from the template
 unplug the dongle and plug it back in = desconecte o receptor e conecte de novo
 Keep last known battery for mice = Manter a última bateria conhecida dos mouses
 Move to tray when no devices = Mover para a bandeja quando não houver dispositivos
